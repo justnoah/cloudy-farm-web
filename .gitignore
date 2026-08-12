@@ -24,5 +24,4 @@ dist-ssr
 *.sw?
 
 # Config
-cloudfront-config.json
-bucket-policy.json
+config/
