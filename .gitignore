@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Config
+cloudfront-config.json
+bucket-policy.json

@@ -2,7 +2,7 @@
 
 Frontend for **cloudy-farm**, a todo list app with authentication.
 
-Talks to [`cloudy-farm-api`](../cloudy-farm-api/README.md) for auth and data.
+Talks to [`cloudy-farm-api`](https://github.com/justnoah/cloudy-farm-api) for auth and data.
 
 ## Stack
 
